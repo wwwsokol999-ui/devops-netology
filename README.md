@@ -1,1 +1,6 @@
-# devops-netology
+# \# devops-netology
+
+# 
+
+# Репозиторий для выполнения домашних заданий по курсу DevOps.
+
