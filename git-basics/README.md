@@ -64,7 +64,7 @@ git push origin v0.1
 
 
 
-!\[Создание тегов](screenshots/3.png)
+!\[3](screenshots/3.png)
 
 
 
