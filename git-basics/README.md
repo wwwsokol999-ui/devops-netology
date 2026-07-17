@@ -62,19 +62,9 @@ git push origin v0.1
 
 ```
 
-
-
-![3](screenshots/3.png)
-
-
-
 Список тегов:
 
-
-
 https://github.com/wwwsokol999-ui/devops-netology/tags
-
-
 
 ## Задание 3. Ветки
 
@@ -82,19 +72,13 @@ https://github.com/wwwsokol999-ui/devops-netology/tags
 
 Ветка `fix` создана от коммита:
 
-
-
 ```text
 
 5356079 Prepare to delete and move
 
 ```
 
-
-
 Использованные команды:
-
-
 
 ```bash
 
@@ -106,35 +90,16 @@ git push -u origin fix
 
 ```
 
-
-
 В файл `README.md` добавлена новая строка, после чего изменение было сохранено отдельным коммитом и отправлено в GitHub.
-
-
-
-![Создание ветки fix](screenshots/4.png)
-
-
-
-![Network graph](screenshots/5.png)
-
 
 
 Network graph:
 
-
-
 https://github.com/wwwsokol999-ui/devops-netology/network
-
-
 
 ## Задание 4. Работа через VS Code
 
-
-
 Через визуальный интерфейс VS Code были созданы два коммита:
-
-
 
 ```text
 
@@ -144,11 +109,7 @@ Update file using VS Code
 
 ```
 
-
-
 Был создан и изменён файл:
-
-
 
 ```text
 
@@ -156,22 +117,10 @@ visual-editor.txt
 
 ```
 
-
-
-![Работа через VS Code](screenshots/6.png)
-
-
-
-![Итоговая история коммитов](screenshots/5.png)
-
-
-
 ## Результат
 
 
-
 В ходе выполнения задания были отработаны:
-
 
 
 - создание легковесного и аннотированного тегов;
@@ -184,5 +133,13 @@ visual-editor.txt
 
 - просмотр Network graph;
 
-\- создание коммитов через визуальный интерфейс VS Code.
+- создание коммитов через визуальный интерфейс VS Code.
+
+![8](screenshots/8.png)
+![3](screenshots/3.png)
+![4](screenshots/4.png)
+![5](screenshots/5.png)
+![6](screenshots/6.png)
+![7](screenshots/7.png)
+
 
