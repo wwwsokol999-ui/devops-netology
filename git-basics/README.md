@@ -64,7 +64,7 @@ git push origin v0.1
 
 
 
-!\[Создание тегов](screenshots/01-tags.png)
+!\[Создание тегов](screenshots/3.png)
 
 
 
@@ -112,11 +112,11 @@ git push -u origin fix
 
 
 
-!\[Создание ветки fix](screenshots/02-fix-branch.png)
+!\[Создание ветки fix](screenshots/4.png)
 
 
 
-!\[Network graph](screenshots/03-network-graph.png)
+!\[Network graph](screenshots/5.png)
 
 
 
@@ -158,11 +158,11 @@ visual-editor.txt
 
 
 
-!\[Работа через VS Code](screenshots/04-vscode.png)
+!\[Работа через VS Code](screenshots/6.png)
 
 
 
-!\[Итоговая история коммитов](screenshots/05-final-log.png)
+!\[Итоговая история коммитов](screenshots/7.png)
 
 
 
