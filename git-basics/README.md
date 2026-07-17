@@ -1,8 +1,8 @@
-\# Домашнее задание «Основы Git»
+# Домашнее задание «Основы Git»
 
 
 
-\## Задание 1. Удалённые репозитории
+## Задание 1. Удалённые репозитории
 
 
 
@@ -22,7 +22,7 @@ https://github.com/wwwsokol999-ui/devops-netology
 
 
 
-\## Задание 2. Теги
+## Задание 2. Теги
 
 
 
@@ -64,7 +64,7 @@ git push origin v0.1
 
 
 
-!\[3](screenshots/3.png)
+![3](screenshots/3.png)
 
 
 
@@ -76,7 +76,7 @@ https://github.com/wwwsokol999-ui/devops-netology/tags
 
 
 
-\## Задание 3. Ветки
+## Задание 3. Ветки
 
 
 
@@ -112,11 +112,11 @@ git push -u origin fix
 
 
 
-!\[Создание ветки fix](screenshots/4.png)
+![Создание ветки fix](screenshots/4.png)
 
 
 
-!\[Network graph](screenshots/5.png)
+![Network graph](screenshots/5.png)
 
 
 
@@ -128,7 +128,7 @@ https://github.com/wwwsokol999-ui/devops-netology/network
 
 
 
-\## Задание 4. Работа через VS Code
+## Задание 4. Работа через VS Code
 
 
 
@@ -158,15 +158,15 @@ visual-editor.txt
 
 
 
-!\[Работа через VS Code](screenshots/6.png)
+![Работа через VS Code](screenshots/6.png)
 
 
 
-!\[Итоговая история коммитов](screenshots/7.png)
+![Итоговая история коммитов](screenshots/5.png)
 
 
 
-\## Результат
+## Результат
 
 
 
@@ -174,15 +174,15 @@ visual-editor.txt
 
 
 
-\- создание легковесного и аннотированного тегов;
+- создание легковесного и аннотированного тегов;
 
-\- отправка тегов в удалённый репозиторий;
+- отправка тегов в удалённый репозиторий;
 
-\- создание ветки от старого коммита;
+- создание ветки от старого коммита;
 
-\- отправка отдельной ветки в GitHub;
+- отправка отдельной ветки в GitHub;
 
-\- просмотр Network graph;
+- просмотр Network graph;
 
 \- создание коммитов через визуальный интерфейс VS Code.
 
